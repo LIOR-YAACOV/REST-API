@@ -1,5 +1,5 @@
 import ipaddress
-from mid_projet_exceptions import *
+from mid_project_exceptions import *
 from mid_project_menu import Option 
 MAX_PORT_NUMBER = 65535
 MIN_PORT_NUMBER = 0
