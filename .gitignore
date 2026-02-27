@@ -1,0 +1,5 @@
+.vscode/
+__pycache__/
+question.py
+requests_example.py
+interview_questions/
